@@ -13,16 +13,16 @@
             "y": 0,
             "z": 0,
             "width": 2,
-            "height": 2,
-            "length": 8
+            "height": 4,
+            "length": 4
           },
           {
             "x": 12,
             "y": 0,
             "z": 0,
             "width": 2,
-            "height": 2,
-            "length": 8
+            "height": 4,
+            "length": 4
           }
         ]
       }
