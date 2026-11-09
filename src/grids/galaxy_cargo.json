@@ -82,8 +82,15 @@
       {
         "value": "Cargo Bay",
         "x": 90,
-        "z": 110,
+        "z": 70,
         "fontSize": 4
+      },
+      {
+        "value": "Elevator",
+        "x": 120,
+        "z": 90,
+        "fontSize": 4,
+        "rotation": 270
       }
     ]
   }
