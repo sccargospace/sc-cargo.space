@@ -1,6 +1,9 @@
 {
   "manufacturer": "RSI",
-  "name": "Galaxy [Cargo Concept]",
+  "name": "Galaxy [Cargo]",
+  "alternativeNames": [
+    "Galaxy [Cargo Concept]"
+  ],
   "official": {
     "capacity": 720,
     "groups": [
@@ -59,7 +62,7 @@
     ],
     "labels": [
       {
-        "value": "Galaxy [Cargo Concept]",
+        "value": "Galaxy [Cargo]",
         "x": 90,
         "z": -20,
         "fontSize": 5

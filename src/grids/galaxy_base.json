@@ -1,6 +1,9 @@
 {
   "manufacturer": "RSI",
-  "name": "Galaxy [Base Concept]",
+  "name": "Galaxy",
+  "alternativeNames": [
+    "Galaxy [Base Concept]"
+  ],
   "official": {
     "capacity": 64,
     "groups": [
@@ -29,7 +32,7 @@
     ],
     "labels": [
       {
-        "value": "Galaxy [Base Concept]",
+        "value": "Galaxy",
         "x": 70,
         "z": -20,
         "fontSize": 5
