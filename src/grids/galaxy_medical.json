@@ -1,0 +1,71 @@
+{
+  "manufacturer": "RSI",
+  "name": "Galaxy [Medical]",
+  "official": {
+    "capacity": 68,
+    "groups": [
+      {
+        "x": 0,
+        "z": 0,
+        "grids": [
+          {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "width": 2,
+            "height": 4,
+            "length": 4
+          },
+          {
+            "x": 12,
+            "y": 0,
+            "z": 0,
+            "width": 2,
+            "height": 4,
+            "length": 4
+          }
+        ]
+      },
+      {
+        "x": 0,
+        "z": 7,
+        "grids": [
+          {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "width": 2,
+            "height": 2,
+            "length": 1
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "value": "Galaxy [Medical]",
+        "x": 70,
+        "z": -20,
+        "fontSize": 5
+      },
+      {
+        "value": "${scu}",
+        "x": 70,
+        "z": -27,
+        "fontSize": 5
+      },
+      {
+        "value": "Hangar",
+        "x": 70,
+        "z": -10,
+        "fontSize": 4
+      },
+      {
+        "value": "Medical Room",
+        "x": 10,
+        "z": 60,
+        "fontSize": 4
+      }
+    ]
+  }
+}
