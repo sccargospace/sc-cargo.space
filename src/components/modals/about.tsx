@@ -183,7 +183,7 @@ export const AboutModal = ({ isOpen, onClose }: AboutModalProps) => {
                   <Table size="small" stickyHeader>
                     <TableHead>
                       <TableRow>
-                        <TableCell sx={{ fontWeight: 600 }}>Package</TableCell>
+                        <TableCell sx={{ fontWeight: 600 }}>Resource</TableCell>
                         <TableCell sx={{ fontWeight: 600 }}>License</TableCell>
                         <TableCell sx={{ fontWeight: 600 }}>Author</TableCell>
                         <TableCell sx={{ fontWeight: 600 }}>Link</TableCell>
