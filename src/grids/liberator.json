@@ -56,6 +56,27 @@
         "x": 40,
         "z": -27,
         "fontSize": 5
+      },
+      {
+        "value": "Bay 1",
+        "x": -8,
+        "z": 7,
+        "fontSize": 4,
+        "rotation": 270
+      },
+      {
+        "value": "Bay 2",
+        "x": -8,
+        "z": 68,
+        "fontSize": 4,
+        "rotation": 270
+      },
+      {
+        "value": "Bay 3",
+        "x": -8,
+        "z": 158,
+        "fontSize": 4,
+        "rotation": 270
       }
     ]
   }
