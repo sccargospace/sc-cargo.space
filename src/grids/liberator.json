@@ -1,6 +1,9 @@
 {
   "manufacturer": "Anvil",
-  "name": "Liberator [Concept]",
+  "name": "Liberator",
+  "alternativeNames": [
+    "Liberator [Concept]"
+  ],
   "official": {
     "capacity": 400,
     "groups": [
@@ -12,15 +15,29 @@
             "x": 0,
             "y": 0,
             "z": 0,
-            "width": 5,
+            "width": 8,
             "height": 4,
-            "length": 10
+            "length": 4
           }
         ]
       },
       {
-        "x": 8,
-        "z": 0,
+        "x": 0,
+        "z": 7,
+        "grids": [
+          {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "width": 8,
+            "height": 4,
+            "length": 6
+          }
+        ]
+      },
+      {
+        "x": 0,
+        "z": 16,
         "grids": [
           {
             "x": 0,
@@ -28,21 +45,21 @@
             "z": 0,
             "width": 5,
             "height": 4,
-            "length": 10
+            "length": 4
           }
         ]
       }
     ],
     "labels": [
       {
-        "value": "Liberator [Concept]",
-        "x": 65,
+        "value": "Liberator",
+        "x": 40,
         "z": -20,
         "fontSize": 5
       },
       {
         "value": "${scu}",
-        "x": 65,
+        "x": 40,
         "z": -27,
         "fontSize": 5
       }
